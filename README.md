@@ -1,4 +1,4 @@
-# tare 7 uso de arreglos-Yokairi-feliciano
+# tarea  7 uso de arreglos-Yokairi-feliciano
 gestion de calificaciones
 
  mi programa  esta codificado en c++ y pide una cantidad de alumnos de maximo 20 estudiantes  despues hay que ingresar las calificaciones para eventualmete el programa te dara los promedios de los alunmnos, tambiem muestra la cantidad de alunos que reprobados y los que aprovaron. 
